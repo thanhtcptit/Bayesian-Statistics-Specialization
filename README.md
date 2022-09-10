@@ -120,6 +120,7 @@ Learning Objectives
 - Explain the implications of multimodality issues in the algorithms used to fit Mixture Models
 - Estimate the number of components in a Mixture Model
 
+
 ## Course 4: Time Series Analysis
 
 This course for practicing and aspiring data scientists and statisticians. It is the fourth of a four-course sequence introducing the fundamentals of Bayesian statistics. It builds on the course Bayesian Statistics: From Concept to Data Analysis, Techniques and Models, and Mixture models. 
