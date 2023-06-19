@@ -185,21 +185,39 @@ This is the capstone project for UC Santa Cruz's Bayesian Statistics Specializat
 
 **Week 1**
 
+In this module, we will introduce conjugate Bayesian analysis for the autoregressive (AR) models.
+
+Learning Objectives
+- Explain the procedure for sampling from the posterior distribution, and code in R to achieve it.
+- Calculate the posterior distributions of model parameters.
+- Describe the AR models under Bayesian conjugate setting. Specify the likelihood function and prior distribution.
 
 
 **Week 2**
 
+In this module, we will introduce some criteria that can be used in selecting the order of AR processes and the number of mixing components, which will be used later when we introduce mixture of AR models.
 
+Learning Objectives
+- Define and compute AIC, BIC and DIC.
+- Select the order of AR process using AIC and BIC as criteria.
 
 **Week 3**
 
+In this module, we will perform Bayesian analysis for location mixture of AR(p) models.
 
+Learning Objectives
+- Write down the location mixture of AR models under Bayesian conjugate setting. Specify the likelihood function and prior distribution.
+- Derive the full conditional distributions and develop the Gibbs sampler for posterior inference of model parameters.
+- Implement in the R environment Markov chain Monte Carlo algorithms for fitting mixture models.
 
 **Week 4**
 
+In this module, we will use everything we have learned up until now to perform a mixture model on time series data.
 
-
+Learning Objectives
+- Demonstrate proficiency in all previous learning objectives.
+- Efficiently and effectively communicate results of a data analysis.
 
 # Certificate
 
-![Certificate]()
+![Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~PPTU6LW3AHXT/CERTIFICATE_LANDING_PAGE~PPTU6LW3AHXT.jpeg)
